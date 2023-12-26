@@ -1,0 +1,42 @@
+_repo: Westy-Martin-on-the-Santa-Fe-Trail_72186
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Holberg, Richard A.
+    birthdate: 1889
+    deathdate: 1942
+    gutenberg_agent_id: '56581'
+    url: http://www.gutenberg.org/2009/agents/56581
+creator:
+  author:
+    agent_name: Fitzhugh, Percy Keese
+    aliases:
+    - Fitzhugh, P. K. (Percy Keese)
+    - Fitzhugh, Percy K.
+    - Lloyd, Hugh
+    birthdate: 1876
+    deathdate: 1950
+    gutenberg_agent_id: '2132'
+    url: http://www.gutenberg.org/2009/agents/2132
+    wikipedia: https://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
+description: ''
+gutenberg_issued: '2023-11-21'
+identifiers:
+  gutenberg: '72186'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39076002194624
+pgterms:marc905: 20231103002509fitzhugh
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bGrosset & Dunlap, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcsh 'Santa Fe National Historic Trail -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Westy Martin on the Santa Fe Trail
+url: http://www.gutenberg.org/ebooks/72186
